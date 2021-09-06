@@ -7,11 +7,11 @@
 # Components:
 
 - App
-- Navigation
-- Tweets List
-- Tweet Container
+- Dashboard
+- Nav
+- NewTweet
 - Tweet
-- New Tweet
+- TweetPage
 
 # Store:
 
